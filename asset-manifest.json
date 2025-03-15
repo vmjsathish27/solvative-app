@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/solvative-app/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/solvative-app/static/js/main.6d9fbb3e.chunk.js",
+    "main.js.map": "/solvative-app/static/js/main.6d9fbb3e.chunk.js.map",
+    "runtime~main.js": "/solvative-app/static/js/runtime~main.32c3d2e4.js",
+    "runtime~main.js.map": "/solvative-app/static/js/runtime~main.32c3d2e4.js.map",
+    "static/js/2.53ff63a9.chunk.js": "/solvative-app/static/js/2.53ff63a9.chunk.js",
+    "static/js/2.53ff63a9.chunk.js.map": "/solvative-app/static/js/2.53ff63a9.chunk.js.map",
+    "static/js/3.c02789ba.chunk.js": "/solvative-app/static/js/3.c02789ba.chunk.js",
+    "static/js/3.c02789ba.chunk.js.map": "/solvative-app/static/js/3.c02789ba.chunk.js.map",
+    "index.html": "/solvative-app/index.html",
+    "precache-manifest.8d37a5ea738cd8081603a8d6ab620b76.js": "/solvative-app/precache-manifest.8d37a5ea738cd8081603a8d6ab620b76.js",
+    "service-worker.js": "/solvative-app/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/solvative-app/static/css/main.435d5fe5.chunk.css.map"
+  }
+}
